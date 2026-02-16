@@ -13,7 +13,7 @@
         <package>me.xorgon.volleyball</package>
         <main.class>${package}.VolleyballPlugin</main.class>
 
-        <spigot-api.version>1.21.10-R0.1-SNAPSHOT</spigot-api.version>
+        <spigot-api.version>1.21.11-R0.1-SNAPSHOT</spigot-api.version>
         <effectlib.version>10.10</effectlib.version>
     </properties>
 
